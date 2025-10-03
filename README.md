@@ -94,7 +94,7 @@ This is a group exercise focused on building a minimalist e-commerce platform to
 1. Clone this repository and navigate to the folder:
 
 ```bash
-git clone https://github.com/jplimmer/next-cart.git
+git clone https://github.com/nextcart-se/next-cart.git
 cd next-cart
 ```
 
